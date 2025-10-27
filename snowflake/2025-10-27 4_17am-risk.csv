@@ -1,0 +1,79 @@
+region,sector,ANNEE,REG,A21,taux_pred,score_risque
+Île-de-France,Construction,2026,11,F,0.1409,42.3
+Corse,Activités financières et d'assurance,2026,94,K,0.011,3.3
+Bretagne,Activités immobilières,2026,53,L,0.0233,7
+Bretagne,Activités financières et d'assurance,2026,53,K,0.0237,7.1
+Corse,Information et communication,2026,94,J,0.0243,7.3
+Pays de la Loire,Activités financières et d'assurance,2026,52,K,0.0244,7.3
+Île-de-France,Activités financières et d'assurance,2026,11,K,0.0252,7.6
+Auvergne-Rhône-Alpes,Activités financières et d'assurance,2026,84,K,0.0262,7.9
+Occitanie,Activités financières et d'assurance,2026,76,K,0.0263,7.9
+Provence-Alpes-Côte d'Azur,Activités financières et d'assurance,2026,93,K,0.0262,7.9
+Nouvelle-Aquitaine,Activités financières et d'assurance,2026,75,K,0.0265,8
+Centre-Val de Loire,Activités financières et d'assurance,2026,24,K,0.0276,8.3
+Normandie,Activités financières et d'assurance,2026,28,K,0.0277,8.3
+Grand Est,Activités financières et d'assurance,2026,44,K,0.0282,8.5
+Corse,Transports et entreposage,2026,94,H,0.0313,9.4
+Occitanie,Activités immobilières,2026,76,L,0.0313,9.4
+Hauts-de-France,Activités financières et d'assurance,2026,32,K,0.0318,9.6
+Pays de la Loire,Activités immobilières,2026,52,L,0.0327,9.8
+Centre-Val de Loire,Activités immobilières,2026,24,L,0.0329,9.9
+Île-de-France,Activités immobilières,2026,11,L,0.0331,9.9
+Provence-Alpes-Côte d'Azur,Activités immobilières,2026,93,L,0.0335,10.1
+Auvergne-Rhône-Alpes,Activités immobilières,2026,84,L,0.0335,10.1
+Bourgogne-Franche-Comté,Activités financières et d'assurance,2026,27,K,0.0337,10.1
+Nouvelle-Aquitaine,Activités immobilières,2026,75,L,0.0345,10.4
+Normandie,Activités immobilières,2026,28,L,0.0365,11
+Corse,Activités immobilières,2026,94,L,0.0371,11.2
+Nouvelle-Aquitaine,Information et communication,2026,75,J,0.038,11.4
+Pays de la Loire,Information et communication,2026,52,J,0.0379,11.4
+Auvergne-Rhône-Alpes,Information et communication,2026,84,J,0.0386,11.6
+Provence-Alpes-Côte d'Azur,Information et communication,2026,93,J,0.0386,11.6
+Île-de-France,Information et communication,2026,11,J,0.0385,11.6
+Bretagne,Information et communication,2026,53,J,0.041,12.3
+Grand Est,Activités immobilières,2026,44,L,0.0411,12.3
+Bourgogne-Franche-Comté,Transports et entreposage,2026,27,H,0.0413,12.4
+Occitanie,Information et communication,2026,76,J,0.0412,12.4
+Hauts-de-France,Activités immobilières,2026,32,L,0.0415,12.5
+Bourgogne-Franche-Comté,Activités immobilières,2026,27,L,0.0427,12.8
+Grand Est,Information et communication,2026,44,J,0.0441,13.2
+Auvergne-Rhône-Alpes,Transports et entreposage,2026,84,H,0.0447,13.4
+Hauts-de-France,Information et communication,2026,32,J,0.0445,13.4
+Provence-Alpes-Côte d'Azur,Transports et entreposage,2026,93,H,0.0447,13.4
+Occitanie,Transports et entreposage,2026,76,H,0.0448,13.5
+Nouvelle-Aquitaine,Transports et entreposage,2026,75,H,0.0456,13.7
+Pays de la Loire,Transports et entreposage,2026,52,H,0.0461,13.8
+Bretagne,Transports et entreposage,2026,53,H,0.0482,14.5
+Bourgogne-Franche-Comté,Information et communication,2026,27,J,0.0493,14.8
+Grand Est,Transports et entreposage,2026,44,H,0.0532,16
+Corse,Construction,2026,94,F,0.054,16.2
+Île-de-France,Transports et entreposage,2026,11,H,0.054,16.2
+Hauts-de-France,Transports et entreposage,2026,32,H,0.0545,16.4
+Normandie,Information et communication,2026,28,J,0.0548,16.5
+Centre-Val de Loire,Information et communication,2026,24,J,0.0563,16.9
+Centre-Val de Loire,Transports et entreposage,2026,24,H,0.0576,17.3
+Normandie,Transports et entreposage,2026,28,H,0.0582,17.5
+Corse,Hébergement et restauration,2026,94,I,0.0609,18.3
+Pays de la Loire,Hébergement et restauration,2026,52,I,0.0674,20.2
+Bretagne,Hébergement et restauration,2026,53,I,0.0689,20.7
+Nouvelle-Aquitaine,Hébergement et restauration,2026,75,I,0.0692,20.8
+Bretagne,Construction,2026,53,F,0.0712,21.4
+Auvergne-Rhône-Alpes,Hébergement et restauration,2026,84,I,0.072,21.6
+Provence-Alpes-Côte d'Azur,Hébergement et restauration,2026,93,I,0.072,21.6
+Occitanie,Hébergement et restauration,2026,76,I,0.0736,22.1
+Occitanie,Construction,2026,76,F,0.0754,22.7
+Nouvelle-Aquitaine,Construction,2026,75,F,0.0754,22.7
+Normandie,Hébergement et restauration,2026,28,I,0.0797,23.9
+Provence-Alpes-Côte d'Azur,Construction,2026,93,F,0.0797,23.9
+Auvergne-Rhône-Alpes,Construction,2026,84,F,0.0797,23.9
+Pays de la Loire,Construction,2026,52,F,0.0798,24
+Bourgogne-Franche-Comté,Construction,2026,27,F,0.0863,25.9
+Normandie,Construction,2026,28,F,0.0878,26.4
+Bourgogne-Franche-Comté,Hébergement et restauration,2026,27,I,0.0897,26.9
+Île-de-France,Hébergement et restauration,2026,11,I,0.09,27
+Grand Est,Hébergement et restauration,2026,44,I,0.0927,27.8
+Centre-Val de Loire,Hébergement et restauration,2026,24,I,0.0939,28.2
+Grand Est,Construction,2026,44,F,0.0968,29.1
+Centre-Val de Loire,Construction,2026,24,F,0.0986,29.6
+Hauts-de-France,Hébergement et restauration,2026,32,I,0.0997,29.9
+Hauts-de-France,Construction,2026,32,F,0.1147,34.5

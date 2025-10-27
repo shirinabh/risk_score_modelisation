@@ -1,0 +1,577 @@
+ANNEE,defaillances_annee,NB_UL,region,sector,taux
+2014,1630,19559,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.08333759395
+2021,5300,89570,Île-de-France,Transports et entreposage,0.05917159763
+2020,5040,78632,Île-de-France,Transports et entreposage,0.06409604232
+2019,8820,68013,Île-de-France,Transports et entreposage,0.1296810904
+2018,8800,56968,Île-de-France,Transports et entreposage,0.1544726864
+2017,6930,48394,Île-de-France,Transports et entreposage,0.1431995702
+2016,6550,44899,Île-de-France,Transports et entreposage,0.1458829818
+2015,5760,38739,Île-de-France,Transports et entreposage,0.1486873693
+2014,4820,34627,Île-de-France,Transports et entreposage,0.1391977359
+2021,3490,89304,Île-de-France,Information et communication,0.03907999642
+2020,4080,81919,Île-de-France,Information et communication,0.04980529547
+2019,5750,76439,Île-de-France,Information et communication,0.07522338073
+2018,5970,70654,Île-de-France,Information et communication,0.08449627763
+2017,5930,64876,Île-de-France,Information et communication,0.09140514212
+2016,6510,61876,Île-de-France,Information et communication,0.1052104208
+2015,6690,59249,Île-de-France,Information et communication,0.1129132981
+2014,6570,56719,Île-de-France,Information et communication,0.1158342002
+2021,5250,52115,Île-de-France,Hébergement et restauration,0.1007387508
+2020,7960,50941,Île-de-France,Hébergement et restauration,0.1562592018
+2019,10850,49675,Île-de-France,Hébergement et restauration,0.2184197282
+2018,11330,47510,Île-de-France,Hébergement et restauration,0.2384761103
+2017,10330,46347,Île-de-France,Hébergement et restauration,0.2228838976
+2016,11360,45566,Île-de-France,Hébergement et restauration,0.2493086951
+2015,11470,44473,Île-de-France,Hébergement et restauration,0.2579092933
+2014,9770,43456,Île-de-France,Hébergement et restauration,0.2248251105
+2021,14860,98891,Île-de-France,Construction,0.150266455
+2020,14500,93000,Île-de-France,Construction,0.1559139785
+2019,27930,88838,Île-de-France,Construction,0.3143924897
+2018,31330,84529,Île-de-France,Construction,0.3706420282
+2017,30820,82486,Île-de-France,Construction,0.373639163
+2016,33340,81905,Île-de-France,Construction,0.4070569562
+2015,36550,81876,Île-de-France,Construction,0.4464067614
+2014,32440,80974,Île-de-France,Construction,0.400622422
+2021,2330,65704,Île-de-France,Activités immobilières,0.03546207232
+2020,1540,61774,Île-de-France,Activités immobilières,0.02492958202
+2019,2410,59065,Île-de-France,Activités immobilières,0.04080250571
+2018,2400,56476,Île-de-France,Activités immobilières,0.04249592747
+2017,2500,53776,Île-de-France,Activités immobilières,0.04648914014
+2016,3660,52676,Île-de-France,Activités immobilières,0.06948135773
+2015,3430,51652,Île-de-France,Activités immobilières,0.06640594749
+2014,3340,50851,Île-de-France,Activités immobilières,0.06568209081
+2021,1450,60067,Île-de-France,Activités financières et d'assurance,0.02413971066
+2020,1780,55169,Île-de-France,Activités financières et d'assurance,0.03226449637
+2019,2180,51515,Île-de-France,Activités financières et d'assurance,0.04231777152
+2018,2430,48278,Île-de-France,Activités financières et d'assurance,0.05033348523
+2017,1940,45529,Île-de-France,Activités financières et d'assurance,0.04261020449
+2016,2420,43341,Île-de-France,Activités financières et d'assurance,0.05583627512
+2015,2530,41402,Île-de-France,Activités financières et d'assurance,0.06110815903
+2014,2630,38719,Île-de-France,Activités financières et d'assurance,0.06792530799
+2021,340,7341,Pays de la Loire,Transports et entreposage,0.04631521591
+2020,290,5678,Pays de la Loire,Transports et entreposage,0.05107432194
+2019,490,4932,Pays de la Loire,Transports et entreposage,0.09935117599
+2018,550,4186,Pays de la Loire,Transports et entreposage,0.1313903488
+2017,470,3639,Pays de la Loire,Transports et entreposage,0.1291563616
+2016,580,3428,Pays de la Loire,Transports et entreposage,0.1691948658
+2015,540,3238,Pays de la Loire,Transports et entreposage,0.1667696109
+2014,690,3177,Pays de la Loire,Transports et entreposage,0.2171860246
+2021,280,7797,Pays de la Loire,Information et communication,0.03591124792
+2020,290,6673,Pays de la Loire,Information et communication,0.04345871422
+2019,510,6025,Pays de la Loire,Information et communication,0.0846473029
+2018,490,5432,Pays de la Loire,Information et communication,0.09020618557
+2017,500,5016,Pays de la Loire,Information et communication,0.09968102073
+2016,500,4732,Pays de la Loire,Information et communication,0.1056635672
+2015,480,4496,Pays de la Loire,Information et communication,0.1067615658
+2014,650,4201,Pays de la Loire,Information et communication,0.1547250655
+2021,830,13406,Pays de la Loire,Hébergement et restauration,0.06191257646
+2020,1680,13100,Pays de la Loire,Hébergement et restauration,0.1282442748
+2019,2860,12940,Pays de la Loire,Hébergement et restauration,0.2210200927
+2018,3450,12588,Pays de la Loire,Hébergement et restauration,0.2740705434
+2017,3130,12365,Pays de la Loire,Hébergement et restauration,0.2531338455
+2016,3660,12127,Pays de la Loire,Hébergement et restauration,0.3018058877
+2015,4690,11902,Pays de la Loire,Hébergement et restauration,0.3940514199
+2014,3750,11662,Pays de la Loire,Hébergement et restauration,0.3215571943
+2021,2700,28946,Pays de la Loire,Construction,0.09327713674
+2020,2220,26988,Pays de la Loire,Construction,0.08225878168
+2019,4260,26142,Pays de la Loire,Construction,0.1629561625
+2018,4440,25293,Pays de la Loire,Construction,0.1755426403
+2017,4590,24623,Pays de la Loire,Construction,0.1864110791
+2016,5520,24486,Pays de la Loire,Construction,0.2254349424
+2015,7000,24569,Pays de la Loire,Construction,0.2849118808
+2014,7120,24741,Pays de la Loire,Construction,0.2877814155
+2021,610,20962,Pays de la Loire,Activités immobilières,0.02910027669
+2020,480,19782,Pays de la Loire,Activités immobilières,0.02426448286
+2019,840,19129,Pays de la Loire,Activités immobilières,0.04391238434
+2018,910,18581,Pays de la Loire,Activités immobilières,0.04897475916
+2017,820,18097,Pays de la Loire,Activités immobilières,0.04531137758
+2016,1210,17844,Pays de la Loire,Activités immobilières,0.06780990809
+2015,1650,17677,Pays de la Loire,Activités immobilières,0.09334163037
+2014,1420,17893,Pays de la Loire,Activités immobilières,0.07936064383
+2021,330,14370,Pays de la Loire,Activités financières et d'assurance,0.02296450939
+2020,480,13483,Pays de la Loire,Activités financières et d'assurance,0.03560038567
+2019,670,12665,Pays de la Loire,Activités financières et d'assurance,0.05290169759
+2018,720,11801,Pays de la Loire,Activités financières et d'assurance,0.06101177866
+2017,640,11329,Pays de la Loire,Activités financières et d'assurance,0.05649218819
+2016,640,10820,Pays de la Loire,Activités financières et d'assurance,0.05914972274
+2015,970,10176,Pays de la Loire,Activités financières et d'assurance,0.09532232704
+2014,740,9314,Pays de la Loire,Activités financières et d'assurance,0.07945028989
+2021,640,15133,Occitanie,Transports et entreposage,0.04229168043
+2020,730,12226,Occitanie,Transports et entreposage,0.05970881727
+2019,1050,10964,Occitanie,Transports et entreposage,0.09576796789
+2018,980,9025,Occitanie,Transports et entreposage,0.1085872576
+2017,1120,7349,Occitanie,Transports et entreposage,0.1524016873
+2016,1010,6709,Occitanie,Transports et entreposage,0.1505440453
+2015,1220,6429,Occitanie,Transports et entreposage,0.1897651268
+2014,1320,6237,Occitanie,Transports et entreposage,0.2116402116
+2021,600,14345,Occitanie,Information et communication,0.04182642036
+2020,520,12487,Occitanie,Information et communication,0.04164330904
+2019,910,11480,Occitanie,Information et communication,0.07926829268
+2018,910,10600,Occitanie,Information et communication,0.0858490566
+2017,940,9519,Occitanie,Information et communication,0.09874986868
+2016,770,9177,Occitanie,Information et communication,0.08390541571
+2015,850,8777,Occitanie,Information et communication,0.09684402415
+2014,810,8408,Occitanie,Information et communication,0.09633682207
+2021,2340,31802,Occitanie,Hébergement et restauration,0.07358027797
+2020,4180,30775,Occitanie,Hébergement et restauration,0.1358245329
+2019,6890,30209,Occitanie,Hébergement et restauration,0.2280777252
+2018,7200,29097,Occitanie,Hébergement et restauration,0.2474481905
+2017,7780,28015,Occitanie,Hébergement et restauration,0.2777083705
+2016,8100,27519,Occitanie,Hébergement et restauration,0.2943420909
+2015,9140,26772,Occitanie,Hébergement et restauration,0.3414014642
+2014,8400,25935,Occitanie,Hébergement et restauration,0.3238866397
+2021,5150,70009,Occitanie,Construction,0.0735619706
+2020,5220,65946,Occitanie,Construction,0.07915567282
+2019,9720,63740,Occitanie,Construction,0.1524945089
+2018,9910,61557,Occitanie,Construction,0.1609890021
+2017,10560,59426,Occitanie,Construction,0.1776999966
+2016,13050,59198,Occitanie,Construction,0.2204466367
+2015,14580,58942,Occitanie,Construction,0.2473618133
+2014,15090,58449,Occitanie,Construction,0.2581737925
+2021,1040,34488,Occitanie,Activités immobilières,0.03015541638
+2020,1160,32703,Occitanie,Activités immobilières,0.03547075192
+2019,1230,31986,Occitanie,Activités immobilières,0.03845432377
+2018,1850,31392,Occitanie,Activités immobilières,0.05893221203
+2017,1970,30718,Occitanie,Activités immobilières,0.06413177941
+2016,2300,30447,Occitanie,Activités immobilières,0.07554110421
+2015,2280,30398,Occitanie,Activités immobilières,0.07500493454
+2014,2560,30745,Occitanie,Activités immobilières,0.08326557164
+2021,420,18028,Occitanie,Activités financières et d'assurance,0.02329709341
+2020,510,16370,Occitanie,Activités financières et d'assurance,0.03115455101
+2019,870,15415,Occitanie,Activités financières et d'assurance,0.0564385339
+2018,750,14491,Occitanie,Activités financières et d'assurance,0.05175626251
+2017,830,13657,Occitanie,Activités financières et d'assurance,0.0607746943
+2016,830,12837,Occitanie,Activités financières et d'assurance,0.06465685129
+2015,880,12088,Occitanie,Activités financières et d'assurance,0.07279947055
+2014,1010,11160,Occitanie,Activités financières et d'assurance,0.09050179211
+2021,460,14089,Nouvelle-Aquitaine,Transports et entreposage,0.03264958478
+2020,610,11224,Nouvelle-Aquitaine,Transports et entreposage,0.05434782609
+2019,970,10169,Nouvelle-Aquitaine,Transports et entreposage,0.09538794375
+2018,980,8832,Nouvelle-Aquitaine,Transports et entreposage,0.1109601449
+2017,930,7153,Nouvelle-Aquitaine,Transports et entreposage,0.1300153782
+2016,950,6724,Nouvelle-Aquitaine,Transports et entreposage,0.1412849494
+2015,1210,6388,Nouvelle-Aquitaine,Transports et entreposage,0.1894176581
+2014,1230,6223,Nouvelle-Aquitaine,Transports et entreposage,0.1976538647
+2021,460,12729,Nouvelle-Aquitaine,Information et communication,0.03613795271
+2020,420,10990,Nouvelle-Aquitaine,Information et communication,0.03821656051
+2019,750,9842,Nouvelle-Aquitaine,Information et communication,0.07620402357
+2018,830,9149,Nouvelle-Aquitaine,Information et communication,0.0907202973
+2017,840,8131,Nouvelle-Aquitaine,Information et communication,0.1033083262
+2016,770,7759,Nouvelle-Aquitaine,Information et communication,0.09923959273
+2015,910,7474,Nouvelle-Aquitaine,Information et communication,0.1217554188
+2014,780,7052,Nouvelle-Aquitaine,Information et communication,0.11060692
+2021,1950,29177,Nouvelle-Aquitaine,Hébergement et restauration,0.06683346472
+2020,3560,28009,Nouvelle-Aquitaine,Hébergement et restauration,0.1271020029
+2019,5790,27615,Nouvelle-Aquitaine,Hébergement et restauration,0.2096686583
+2018,6880,26710,Nouvelle-Aquitaine,Hébergement et restauration,0.2575814302
+2017,6270,25615,Nouvelle-Aquitaine,Hébergement et restauration,0.2447784501
+2016,7290,25045,Nouvelle-Aquitaine,Hébergement et restauration,0.2910760631
+2015,7830,24042,Nouvelle-Aquitaine,Hébergement et restauration,0.3256800599
+2014,7550,23248,Nouvelle-Aquitaine,Hébergement et restauration,0.3247591191
+2021,4680,62791,Nouvelle-Aquitaine,Construction,0.07453297447
+2020,4360,58976,Nouvelle-Aquitaine,Construction,0.07392837765
+2019,8300,56830,Nouvelle-Aquitaine,Construction,0.1460496217
+2018,8730,55293,Nouvelle-Aquitaine,Construction,0.15788617
+2017,9110,53135,Nouvelle-Aquitaine,Construction,0.17145008
+2016,10410,52952,Nouvelle-Aquitaine,Construction,0.196593141
+2015,12310,52892,Nouvelle-Aquitaine,Construction,0.2327384103
+2014,13840,52717,Nouvelle-Aquitaine,Construction,0.2625339075
+2021,1260,36488,Nouvelle-Aquitaine,Activités immobilières,0.0345319009
+2020,1390,34824,Nouvelle-Aquitaine,Activités immobilières,0.03991500115
+2019,1700,34097,Nouvelle-Aquitaine,Activités immobilières,0.04985775875
+2018,1710,33339,Nouvelle-Aquitaine,Activités immobilières,0.05129128048
+2017,1760,32550,Nouvelle-Aquitaine,Activités immobilières,0.05407066052
+2016,2020,32297,Nouvelle-Aquitaine,Activités immobilières,0.06254450878
+2015,2040,32076,Nouvelle-Aquitaine,Activités immobilières,0.06359895249
+2014,2130,32663,Nouvelle-Aquitaine,Activités immobilières,0.06521140128
+2021,540,22665,Nouvelle-Aquitaine,Activités financières et d'assurance,0.02382528127
+2020,630,20666,Nouvelle-Aquitaine,Activités financières et d'assurance,0.03048485435
+2019,1000,19090,Nouvelle-Aquitaine,Activités financières et d'assurance,0.05238344683
+2018,890,17237,Nouvelle-Aquitaine,Activités financières et d'assurance,0.05163311481
+2017,970,16034,Nouvelle-Aquitaine,Activités financières et d'assurance,0.06049644505
+2016,970,14958,Nouvelle-Aquitaine,Activités financières et d'assurance,0.06484824174
+2015,1120,13953,Nouvelle-Aquitaine,Activités financières et d'assurance,0.0802694761
+2014,1050,12782,Nouvelle-Aquitaine,Activités financières et d'assurance,0.08214676889
+2021,410,6578,Normandie,Transports et entreposage,0.06232897537
+2020,430,5445,Normandie,Transports et entreposage,0.07897153352
+2019,730,5002,Normandie,Transports et entreposage,0.1459416234
+2018,760,4316,Normandie,Transports et entreposage,0.1760889713
+2017,700,3632,Normandie,Transports et entreposage,0.1927312775
+2016,670,3566,Normandie,Transports et entreposage,0.1878855861
+2015,480,3503,Normandie,Transports et entreposage,0.1370254068
+2014,710,3453,Normandie,Transports et entreposage,0.2056183029
+2021,250,4879,Normandie,Information et communication,0.0512400082
+2020,310,4226,Normandie,Information et communication,0.07335541884
+2019,320,3867,Normandie,Information et communication,0.08275148694
+2018,270,3595,Normandie,Information et communication,0.07510431154
+2017,410,3266,Normandie,Information et communication,0.1255358236
+2016,490,3050,Normandie,Information et communication,0.1606557377
+2015,300,2945,Normandie,Information et communication,0.1018675722
+2014,390,2834,Normandie,Information et communication,0.1376146789
+2021,1050,12411,Normandie,Hébergement et restauration,0.08460236887
+2020,1830,11975,Normandie,Hébergement et restauration,0.1528183716
+2019,3580,11889,Normandie,Hébergement et restauration,0.3011186811
+2018,3860,11556,Normandie,Hébergement et restauration,0.3340256144
+2017,3520,11346,Normandie,Hébergement et restauration,0.3102414948
+2016,3820,11212,Normandie,Hébergement et restauration,0.340706386
+2015,4290,11082,Normandie,Hébergement et restauration,0.3871142393
+2014,3830,10778,Normandie,Hébergement et restauration,0.3553534979
+2021,1960,23711,Normandie,Construction,0.08266205559
+2020,2500,22356,Normandie,Construction,0.1118268026
+2019,4060,21674,Normandie,Construction,0.1873212144
+2018,5150,21097,Normandie,Construction,0.244110537
+2017,5160,20789,Normandie,Construction,0.248208187
+2016,5700,20840,Normandie,Construction,0.273512476
+2015,6960,20974,Normandie,Construction,0.3318394202
+2014,6940,20936,Normandie,Construction,0.3314864348
+2021,460,12684,Normandie,Activités immobilières,0.03626616209
+2020,550,12004,Normandie,Activités immobilières,0.04581806065
+2019,690,11861,Normandie,Activités immobilières,0.05817384706
+2018,890,11704,Normandie,Activités immobilières,0.07604237867
+2017,680,11448,Normandie,Activités immobilières,0.05939902166
+2016,810,11404,Normandie,Activités immobilières,0.07102770958
+2015,900,11426,Normandie,Activités immobilières,0.07876772274
+2014,710,11647,Normandie,Activités immobilières,0.06095990384
+2021,240,9894,Normandie,Activités financières et d'assurance,0.02425712553
+2020,350,9052,Normandie,Activités financières et d'assurance,0.03866548829
+2019,420,8359,Normandie,Activités financières et d'assurance,0.05024524465
+2018,410,7624,Normandie,Activités financières et d'assurance,0.0537775446
+2017,400,7157,Normandie,Activités financières et d'assurance,0.05588933911
+2016,530,6741,Normandie,Activités financières et d'assurance,0.07862334965
+2015,640,6355,Normandie,Activités financières et d'assurance,0.1007081039
+2014,540,5911,Normandie,Activités financières et d'assurance,0.09135510066
+2021,720,14108,Hauts-de-France,Transports et entreposage,0.05103487383
+2020,1070,11082,Hauts-de-France,Transports et entreposage,0.09655296878
+2019,1460,9632,Hauts-de-France,Transports et entreposage,0.1515780731
+2018,1470,8042,Hauts-de-France,Transports et entreposage,0.1827903507
+2017,1290,7084,Hauts-de-France,Transports et entreposage,0.1821005082
+2016,1370,6627,Hauts-de-France,Transports et entreposage,0.2067300438
+2015,1660,6256,Hauts-de-France,Transports et entreposage,0.2653452685
+2014,1650,6056,Hauts-de-France,Transports et entreposage,0.2724570674
+2021,390,9588,Hauts-de-France,Information et communication,0.04067584481
+2020,490,8354,Hauts-de-France,Information et communication,0.05865453675
+2019,590,7585,Hauts-de-France,Information et communication,0.07778510218
+2018,740,6843,Hauts-de-France,Information et communication,0.1081397048
+2017,690,6065,Hauts-de-France,Information et communication,0.1137675185
+2016,760,5825,Hauts-de-France,Information et communication,0.130472103
+2015,760,5737,Hauts-de-France,Information et communication,0.1324734182
+2014,710,5499,Hauts-de-France,Information et communication,0.1291143844
+2021,2050,17797,Hauts-de-France,Hébergement et restauration,0.115187953
+2020,3170,17182,Hauts-de-France,Hébergement et restauration,0.1844954022
+2019,5800,17006,Hauts-de-France,Hébergement et restauration,0.3410560978
+2018,5990,16596,Hauts-de-France,Hébergement et restauration,0.3609303447
+2017,6160,16355,Hauts-de-France,Hébergement et restauration,0.3766432284
+2016,6810,16310,Hauts-de-France,Hébergement et restauration,0.4175352544
+2015,7270,16150,Hauts-de-France,Hébergement et restauration,0.4501547988
+2014,7370,15856,Hauts-de-France,Hébergement et restauration,0.4648082745
+2021,4330,36015,Hauts-de-France,Construction,0.1202276829
+2020,4770,33973,Hauts-de-France,Construction,0.1404056162
+2019,7720,32656,Hauts-de-France,Construction,0.2364037237
+2018,9350,32193,Hauts-de-France,Construction,0.290435809
+2017,7820,31188,Hauts-de-France,Construction,0.2507374631
+2016,9830,30994,Hauts-de-France,Construction,0.3171581596
+2015,11740,31127,Hauts-de-France,Construction,0.3771645195
+2014,12670,30715,Hauts-de-France,Construction,0.4125020348
+2021,860,18932,Hauts-de-France,Activités immobilières,0.04542573421
+2020,790,17976,Hauts-de-France,Activités immobilières,0.04394748554
+2019,1360,17466,Hauts-de-France,Activités immobilières,0.07786556739
+2018,1140,17177,Hauts-de-France,Activités immobilières,0.06636781743
+2017,1200,16765,Hauts-de-France,Activités immobilières,0.07157769162
+2016,1580,16703,Hauts-de-France,Activités immobilières,0.09459378555
+2015,1530,16761,Hauts-de-France,Activités immobilières,0.09128333632
+2014,1820,16839,Hauts-de-France,Activités immobilières,0.1080824277
+2021,480,15008,Hauts-de-France,Activités financières et d'assurance,0.03198294243
+2020,570,13876,Hauts-de-France,Activités financières et d'assurance,0.0410781205
+2019,760,12973,Hauts-de-France,Activités financières et d'assurance,0.05858321128
+2018,760,12214,Hauts-de-France,Activités financières et d'assurance,0.06222367775
+2017,930,11638,Hauts-de-France,Activités financières et d'assurance,0.07991063757
+2016,880,11166,Hauts-de-France,Activités financières et d'assurance,0.07881067526
+2015,1020,10768,Hauts-de-France,Activités financières et d'assurance,0.09472511144
+2014,950,10063,Hauts-de-France,Activités financières et d'assurance,0.09440524694
+2021,620,11693,Grand Est,Transports et entreposage,0.05302317626
+2020,720,9115,Grand Est,Transports et entreposage,0.07899067471
+2019,1300,8118,Grand Est,Transports et entreposage,0.160137965
+2018,1140,7002,Grand Est,Transports et entreposage,0.1628106255
+2017,1310,5877,Grand Est,Transports et entreposage,0.2229028416
+2016,1180,5510,Grand Est,Transports et entreposage,0.2141560799
+2015,1250,5310,Grand Est,Transports et entreposage,0.2354048964
+2014,1530,5254,Grand Est,Transports et entreposage,0.2912066997
+2021,390,8459,Grand Est,Information et communication,0.04610474051
+2020,460,7366,Grand Est,Information et communication,0.06244909042
+2019,450,6719,Grand Est,Information et communication,0.06697425212
+2018,520,6224,Grand Est,Information et communication,0.08354755784
+2017,770,5774,Grand Est,Information et communication,0.1333564254
+2016,500,5571,Grand Est,Information et communication,0.08975049363
+2015,730,5456,Grand Est,Information et communication,0.133797654
+2014,840,5392,Grand Est,Information et communication,0.1557863501
+2021,1940,18535,Grand Est,Hébergement et restauration,0.1046668465
+2020,3020,17920,Grand Est,Hébergement et restauration,0.1685267857
+2019,5960,17716,Grand Est,Hébergement et restauration,0.3364190562
+2018,6200,17355,Grand Est,Hébergement et restauration,0.3572457505
+2017,5410,17106,Grand Est,Hébergement et restauration,0.3162632994
+2016,5920,17002,Grand Est,Hébergement et restauration,0.3481943301
+2015,6900,16721,Grand Est,Hébergement et restauration,0.4126547455
+2014,6670,16350,Grand Est,Hébergement et restauration,0.4079510703
+2021,4030,40759,Grand Est,Construction,0.09887386835
+2020,4420,38100,Grand Est,Construction,0.1160104987
+2019,7830,36548,Grand Est,Construction,0.2142388092
+2018,8590,35238,Grand Est,Construction,0.2437709291
+2017,8940,34169,Grand Est,Construction,0.2616406684
+2016,10450,34426,Grand Est,Construction,0.3035496427
+2015,11320,34565,Grand Est,Construction,0.3274989151
+2014,12470,34823,Grand Est,Construction,0.3580966603
+2021,940,22496,Grand Est,Activités immobilières,0.04178520626
+2020,1080,21703,Grand Est,Activités immobilières,0.04976270562
+2019,1550,21359,Grand Est,Activités immobilières,0.07256894049
+2018,1600,21198,Grand Est,Activités immobilières,0.07547881876
+2017,1630,20836,Grand Est,Activités immobilières,0.07822998656
+2016,2100,20807,Grand Est,Activités immobilières,0.1009275725
+2015,1900,21044,Grand Est,Activités immobilières,0.09028701768
+2014,2100,21434,Grand Est,Activités immobilières,0.09797517962
+2021,410,15549,Grand Est,Activités financières et d'assurance,0.02636825519
+2020,470,14341,Grand Est,Activités financières et d'assurance,0.03277316784
+2019,680,13557,Grand Est,Activités financières et d'assurance,0.05015858966
+2018,840,12966,Grand Est,Activités financières et d'assurance,0.06478482184
+2017,980,12346,Grand Est,Activités financières et d'assurance,0.07937793617
+2016,750,11683,Grand Est,Activités financières et d'assurance,0.06419584011
+2015,910,11217,Grand Est,Activités financières et d'assurance,0.08112686101
+2014,1010,10576,Grand Est,Activités financières et d'assurance,0.09549924357
+2021,20,823,Corse,Transports et entreposage,0.02430133657
+2020,10,757,Corse,Transports et entreposage,0.01321003963
+2019,80,734,Corse,Transports et entreposage,0.1089918256
+2018,80,697,Corse,Transports et entreposage,0.1147776184
+2017,60,648,Corse,Transports et entreposage,0.09259259259
+2016,70,636,Corse,Transports et entreposage,0.1100628931
+2015,20,623,Corse,Transports et entreposage,0.03210272873
+2014,40,608,Corse,Transports et entreposage,0.06578947368
+2021,10,642,Corse,Information et communication,0.01557632399
+2020,40,574,Corse,Information et communication,0.06968641115
+2019,50,520,Corse,Information et communication,0.09615384615
+2018,60,489,Corse,Information et communication,0.1226993865
+2017,30,458,Corse,Information et communication,0.06550218341
+2016,40,421,Corse,Information et communication,0.09501187648
+2015,50,423,Corse,Information et communication,0.1182033097
+2014,40,402,Corse,Information et communication,0.09950248756
+2021,240,4492,Corse,Hébergement et restauration,0.05342831701
+2020,440,4173,Corse,Hébergement et restauration,0.1054397316
+2019,800,4067,Corse,Hébergement et restauration,0.1967051881
+2018,750,3850,Corse,Hébergement et restauration,0.1948051948
+2017,750,3651,Corse,Hébergement et restauration,0.2054231717
+2016,790,3599,Corse,Hébergement et restauration,0.2195054182
+2015,600,3502,Corse,Hébergement et restauration,0.1713306682
+2014,450,3371,Corse,Hébergement et restauration,0.1334915455
+2021,300,6934,Corse,Construction,0.04326507067
+2020,400,6487,Corse,Construction,0.06166178511
+2019,980,6268,Corse,Construction,0.1563497128
+2018,1190,5915,Corse,Construction,0.201183432
+2017,1080,5693,Corse,Construction,0.1897066573
+2016,1710,5540,Corse,Construction,0.3086642599
+2015,1080,5483,Corse,Construction,0.1969724603
+2014,1280,5289,Corse,Construction,0.2420117224
+2021,120,2457,Corse,Activités immobilières,0.04884004884
+2020,60,2302,Corse,Activités immobilières,0.02606429192
+2019,60,2272,Corse,Activités immobilières,0.0264084507
+2018,60,2209,Corse,Activités immobilières,0.02716161159
+2017,80,2124,Corse,Activités immobilières,0.03766478343
+2016,70,2059,Corse,Activités immobilières,0.03399708596
+2015,80,2013,Corse,Activités immobilières,0.03974167909
+2014,80,1977,Corse,Activités immobilières,0.04046535154
+2021,0,1371,Corse,Activités financières et d'assurance,0
+2020,40,1197,Corse,Activités financières et d'assurance,0.03341687552
+2019,70,1065,Corse,Activités financières et d'assurance,0.06572769953
+2018,60,954,Corse,Activités financières et d'assurance,0.06289308176
+2017,90,883,Corse,Activités financières et d'assurance,0.1019252548
+2016,30,799,Corse,Activités financières et d'assurance,0.03754693367
+2015,10,691,Corse,Activités financières et d'assurance,0.01447178003
+2014,50,599,Corse,Activités financières et d'assurance,0.08347245409
+2021,330,5249,Centre-Val de Loire,Transports et entreposage,0.06286911793
+2020,320,4311,Centre-Val de Loire,Transports et entreposage,0.07422871723
+2019,530,3760,Centre-Val de Loire,Transports et entreposage,0.1409574468
+2018,570,3248,Centre-Val de Loire,Transports et entreposage,0.1754926108
+2017,450,2784,Centre-Val de Loire,Transports et entreposage,0.161637931
+2016,420,2738,Centre-Val de Loire,Transports et entreposage,0.1533966399
+2015,580,2686,Centre-Val de Loire,Transports et entreposage,0.2159344751
+2014,650,2618,Centre-Val de Loire,Transports et entreposage,0.2482811306
+2021,280,4191,Centre-Val de Loire,Information et communication,0.06680983059
+2020,150,3691,Centre-Val de Loire,Information et communication,0.04063939312
+2019,290,3304,Centre-Val de Loire,Information et communication,0.08777239709
+2018,260,3048,Centre-Val de Loire,Information et communication,0.08530183727
+2017,370,2803,Centre-Val de Loire,Information et communication,0.132001427
+2016,270,2721,Centre-Val de Loire,Information et communication,0.09922822492
+2015,270,2634,Centre-Val de Loire,Information et communication,0.1025056948
+2014,270,2552,Centre-Val de Loire,Information et communication,0.105799373
+2021,950,8841,Centre-Val de Loire,Hébergement et restauration,0.1074539079
+2020,1180,8611,Centre-Val de Loire,Hébergement et restauration,0.1370340262
+2019,2570,8465,Centre-Val de Loire,Hébergement et restauration,0.3036030715
+2018,2660,8271,Centre-Val de Loire,Hébergement et restauration,0.32160561
+2017,2490,8025,Centre-Val de Loire,Hébergement et restauration,0.3102803738
+2016,2820,7929,Centre-Val de Loire,Hébergement et restauration,0.355656451
+2015,3140,7882,Centre-Val de Loire,Hébergement et restauration,0.3983760467
+2014,2720,7728,Centre-Val de Loire,Hébergement et restauration,0.3519668737
+2021,2150,20066,Centre-Val de Loire,Construction,0.1071464168
+2020,2010,19059,Centre-Val de Loire,Construction,0.1054619865
+2019,3810,18534,Centre-Val de Loire,Construction,0.205568145
+2018,4090,18125,Centre-Val de Loire,Construction,0.2256551724
+2017,4260,17724,Centre-Val de Loire,Construction,0.240352065
+2016,4270,17699,Centre-Val de Loire,Construction,0.2412565682
+2015,6010,17883,Centre-Val de Loire,Construction,0.3360733658
+2014,5790,17975,Centre-Val de Loire,Construction,0.3221140473
+2021,330,10877,Centre-Val de Loire,Activités immobilières,0.03033924795
+2020,450,10463,Centre-Val de Loire,Activités immobilières,0.04300869731
+2019,610,10205,Centre-Val de Loire,Activités immobilières,0.05977462028
+2018,550,10067,Centre-Val de Loire,Activités immobilières,0.05463395252
+2017,740,9978,Centre-Val de Loire,Activités immobilières,0.07416315895
+2016,890,10007,Centre-Val de Loire,Activités immobilières,0.08893774358
+2015,790,10162,Centre-Val de Loire,Activités immobilières,0.07774060224
+2014,840,10356,Centre-Val de Loire,Activités immobilières,0.08111239861
+2021,220,6593,Centre-Val de Loire,Activités financières et d'assurance,0.0333687244
+2020,220,6108,Centre-Val de Loire,Activités financières et d'assurance,0.03601833661
+2019,340,5724,Centre-Val de Loire,Activités financières et d'assurance,0.05939902166
+2018,400,5480,Centre-Val de Loire,Activités financières et d'assurance,0.07299270073
+2017,310,5190,Centre-Val de Loire,Activités financières et d'assurance,0.05973025048
+2016,600,5091,Centre-Val de Loire,Activités financières et d'assurance,0.1178550383
+2015,490,4874,Centre-Val de Loire,Activités financières et d'assurance,0.1005334428
+2014,580,4593,Centre-Val de Loire,Activités financières et d'assurance,0.1262791204
+2021,280,5571,Bretagne,Transports et entreposage,0.05026027643
+2020,320,4774,Bretagne,Transports et entreposage,0.06702974445
+2019,490,4565,Bretagne,Transports et entreposage,0.1073384447
+2018,430,4073,Bretagne,Transports et entreposage,0.1055732875
+2017,370,3514,Bretagne,Transports et entreposage,0.1052931133
+2016,360,3358,Bretagne,Transports et entreposage,0.1072066706
+2015,440,3230,Bretagne,Transports et entreposage,0.1362229102
+2014,590,3207,Bretagne,Transports et entreposage,0.18397256
+2021,280,6602,Bretagne,Information et communication,0.04241139049
+2020,230,5672,Bretagne,Information et communication,0.04055007052
+2019,350,5178,Bretagne,Information et communication,0.06759366551
+2018,400,4672,Bretagne,Information et communication,0.08561643836
+2017,540,4239,Bretagne,Information et communication,0.127388535
+2016,490,4065,Bretagne,Information et communication,0.1205412054
+2015,460,3856,Bretagne,Information et communication,0.1192946058
+2014,430,3656,Bretagne,Information et communication,0.1176148796
+2021,1000,15273,Bretagne,Hébergement et restauration,0.06547502128
+2020,2020,14699,Bretagne,Hébergement et restauration,0.1374243146
+2019,2780,14614,Bretagne,Hébergement et restauration,0.190228548
+2018,3100,14170,Bretagne,Hébergement et restauration,0.2187720536
+2017,3100,13915,Bretagne,Hébergement et restauration,0.2227811714
+2016,3690,13780,Bretagne,Hébergement et restauration,0.2677793904
+2015,4150,13571,Bretagne,Hébergement et restauration,0.3057991305
+2014,4870,13260,Bretagne,Hébergement et restauration,0.3672699849
+2021,1750,26950,Bretagne,Construction,0.06493506494
+2020,2390,25476,Bretagne,Construction,0.09381378552
+2019,3860,24814,Bretagne,Construction,0.1555573467
+2018,3610,24141,Bretagne,Construction,0.1495381302
+2017,3840,23428,Bretagne,Construction,0.1639064367
+2016,4690,23268,Bretagne,Construction,0.2015643803
+2015,5890,23260,Bretagne,Construction,0.2532244196
+2014,6640,23254,Bretagne,Construction,0.2855422723
+2021,350,17848,Bretagne,Activités immobilières,0.01961004034
+2020,440,17012,Bretagne,Activités immobilières,0.02586409593
+2019,730,16572,Bretagne,Activités immobilières,0.04405020517
+2018,1030,16321,Bretagne,Activités immobilières,0.06310887813
+2017,960,16086,Bretagne,Activités immobilières,0.05967922417
+2016,1000,16005,Bretagne,Activités immobilières,0.06248047485
+2015,1080,16079,Bretagne,Activités immobilières,0.06716835624
+2014,1240,16328,Bretagne,Activités immobilières,0.07594316512
+2021,340,14423,Bretagne,Activités financières et d'assurance,0.02357345906
+2020,390,13261,Bretagne,Activités financières et d'assurance,0.02940954679
+2019,660,12388,Bretagne,Activités financières et d'assurance,0.05327736519
+2018,520,11415,Bretagne,Activités financières et d'assurance,0.04555409549
+2017,500,10776,Bretagne,Activités financières et d'assurance,0.04639940609
+2016,460,10162,Bretagne,Activités financières et d'assurance,0.04526667979
+2015,560,9345,Bretagne,Activités financières et d'assurance,0.05992509363
+2014,780,8483,Bretagne,Activités financières et d'assurance,0.09194860309
+2021,200,5085,Bourgogne-Franche-Comté,Transports et entreposage,0.03933136676
+2020,300,4108,Bourgogne-Franche-Comté,Transports et entreposage,0.07302823759
+2019,550,3590,Bourgogne-Franche-Comté,Transports et entreposage,0.1532033426
+2018,480,3080,Bourgogne-Franche-Comté,Transports et entreposage,0.1558441558
+2017,530,2805,Bourgogne-Franche-Comté,Transports et entreposage,0.1889483066
+2016,560,2733,Bourgogne-Franche-Comté,Transports et entreposage,0.204903037
+2015,440,2740,Bourgogne-Franche-Comté,Transports et entreposage,0.1605839416
+2014,490,2714,Bourgogne-Franche-Comté,Transports et entreposage,0.1805453206
+2021,200,3723,Bourgogne-Franche-Comté,Information et communication,0.05372011818
+2020,150,3218,Bourgogne-Franche-Comté,Information et communication,0.04661280298
+2019,350,2965,Bourgogne-Franche-Comté,Information et communication,0.1180438449
+2018,240,2726,Bourgogne-Franche-Comté,Information et communication,0.08804108584
+2017,320,2488,Bourgogne-Franche-Comté,Information et communication,0.1286173633
+2016,230,2428,Bourgogne-Franche-Comté,Information et communication,0.09472817133
+2015,280,2393,Bourgogne-Franche-Comté,Information et communication,0.1170079398
+2014,250,2336,Bourgogne-Franche-Comté,Information et communication,0.1070205479
+2021,1070,10696,Bourgogne-Franche-Comté,Hébergement et restauration,0.1000373972
+2020,1960,10422,Bourgogne-Franche-Comté,Hébergement et restauration,0.1880637114
+2019,2890,10322,Bourgogne-Franche-Comté,Hébergement et restauration,0.2799844991
+2018,2830,10113,Bourgogne-Franche-Comté,Hébergement et restauration,0.2798378325
+2017,3290,9912,Bourgogne-Franche-Comté,Hébergement et restauration,0.331920904
+2016,3090,9793,Bourgogne-Franche-Comté,Hébergement et restauration,0.3155315021
+2015,3820,9735,Bourgogne-Franche-Comté,Hébergement et restauration,0.3923985619
+2014,3230,9517,Bourgogne-Franche-Comté,Hébergement et restauration,0.3393926658
+2021,1930,22264,Bourgogne-Franche-Comté,Construction,0.08668702839
+2020,2070,20992,Bourgogne-Franche-Comté,Construction,0.0986089939
+2019,3610,20381,Bourgogne-Franche-Comté,Construction,0.1771257544
+2018,3250,19889,Bourgogne-Franche-Comté,Construction,0.1634069083
+2017,3640,19292,Bourgogne-Franche-Comté,Construction,0.1886792453
+2016,4430,19374,Bourgogne-Franche-Comté,Construction,0.2286569629
+2015,5220,19485,Bourgogne-Franche-Comté,Construction,0.2678983834
+2014,5330,19393,Bourgogne-Franche-Comté,Construction,0.2748414376
+2021,620,12904,Bourgogne-Franche-Comté,Activités immobilières,0.04804711717
+2020,510,12466,Bourgogne-Franche-Comté,Activités immobilières,0.04091127868
+2019,670,12173,Bourgogne-Franche-Comté,Activités immobilières,0.05503984227
+2018,720,11936,Bourgogne-Franche-Comté,Activités immobilières,0.06032171582
+2017,870,11753,Bourgogne-Franche-Comté,Activités immobilières,0.07402365354
+2016,760,11678,Bourgogne-Franche-Comté,Activités immobilières,0.06507963692
+2015,780,11772,Bourgogne-Franche-Comté,Activités immobilières,0.06625891947
+2014,1020,12038,Bourgogne-Franche-Comté,Activités immobilières,0.084731683
+2021,240,7395,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.03245436105
+2020,300,6862,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.04371903235
+2019,400,6513,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.06141563028
+2018,380,6181,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.06147872513
+2017,200,5897,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.03391555028
+2016,400,5720,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.06993006993
+2015,370,5589,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.06620146717
+2014,350,5291,Bourgogne-Franche-Comté,Activités financières et d'assurance,0.06615006615
+2021,950,23156,Auvergne-Rhône-Alpes,Transports et entreposage,0.04102608395
+2020,940,19216,Auvergne-Rhône-Alpes,Transports et entreposage,0.04891756869
+2019,2020,17090,Auvergne-Rhône-Alpes,Transports et entreposage,0.1181977765
+2018,1990,14320,Auvergne-Rhône-Alpes,Transports et entreposage,0.1389664804
+2017,2170,12398,Auvergne-Rhône-Alpes,Transports et entreposage,0.1750282304
+2016,1810,11491,Auvergne-Rhône-Alpes,Transports et entreposage,0.1575145766
+2015,1690,10626,Auvergne-Rhône-Alpes,Transports et entreposage,0.1590438547
+2014,2040,10225,Auvergne-Rhône-Alpes,Transports et entreposage,0.1995110024
+2021,730,20316,Auvergne-Rhône-Alpes,Information et communication,0.03593227013
+2020,970,17847,Auvergne-Rhône-Alpes,Information et communication,0.05435087129
+2019,1270,16329,Auvergne-Rhône-Alpes,Information et communication,0.07777573642
+2018,1150,15010,Auvergne-Rhône-Alpes,Information et communication,0.07661558961
+2017,1250,13531,Auvergne-Rhône-Alpes,Information et communication,0.09238045969
+2016,1490,12827,Auvergne-Rhône-Alpes,Information et communication,0.1161612224
+2015,1260,12329,Auvergne-Rhône-Alpes,Information et communication,0.1021980696
+2014,1750,11815,Auvergne-Rhône-Alpes,Information et communication,0.1481168007
+2021,2590,39867,Auvergne-Rhône-Alpes,Hébergement et restauration,0.06496601199
+2020,4950,38785,Auvergne-Rhône-Alpes,Hébergement et restauration,0.1276266598
+2019,7880,38112,Auvergne-Rhône-Alpes,Hébergement et restauration,0.206759026
+2018,9090,36877,Auvergne-Rhône-Alpes,Hébergement et restauration,0.2464951054
+2017,9360,35704,Auvergne-Rhône-Alpes,Hébergement et restauration,0.2621555008
+2016,9300,35595,Auvergne-Rhône-Alpes,Hébergement et restauration,0.2612726507
+2015,10170,34884,Auvergne-Rhône-Alpes,Hébergement et restauration,0.2915376677
+2014,9760,33955,Auvergne-Rhône-Alpes,Hébergement et restauration,0.2874392578
+2021,6750,84557,Auvergne-Rhône-Alpes,Construction,0.07982780846
+2020,6690,79322,Auvergne-Rhône-Alpes,Construction,0.08433977963
+2019,13890,75678,Auvergne-Rhône-Alpes,Construction,0.1835407912
+2018,14280,72534,Auvergne-Rhône-Alpes,Construction,0.1968731905
+2017,14520,69608,Auvergne-Rhône-Alpes,Construction,0.208596713
+2016,16330,68944,Auvergne-Rhône-Alpes,Construction,0.2368589
+2015,19990,68649,Auvergne-Rhône-Alpes,Construction,0.291191423
+2014,20060,68033,Auvergne-Rhône-Alpes,Construction,0.2948569077
+2021,1610,51209,Auvergne-Rhône-Alpes,Activités immobilières,0.03143978598
+2020,1280,48536,Auvergne-Rhône-Alpes,Activités immobilières,0.02637217735
+2019,2060,46877,Auvergne-Rhône-Alpes,Activités immobilières,0.04394479169
+2018,1670,45531,Auvergne-Rhône-Alpes,Activités immobilières,0.03667830709
+2017,1720,43804,Auvergne-Rhône-Alpes,Activités immobilières,0.03926582047
+2016,2190,42852,Auvergne-Rhône-Alpes,Activités immobilières,0.05110613274
+2015,2360,42240,Auvergne-Rhône-Alpes,Activités immobilières,0.05587121212
+2014,2170,41812,Auvergne-Rhône-Alpes,Activités immobilières,0.05189897637
+2021,760,28325,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.02683142101
+2020,800,26396,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.03030762237
+2019,1400,24867,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.05629951341
+2018,1430,23527,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.06078123008
+2017,1330,22195,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.05992340617
+2016,1600,21531,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.0743114579
+2015,1700,20782,Auvergne-Rhône-Alpes,Activités financières et d'assurance,0.08180155904
